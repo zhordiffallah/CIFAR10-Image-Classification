@@ -9,8 +9,6 @@ Welcome to the CIFAR-10 Image Classification project! This repository contains a
 - [📚 Dataset](#-dataset)
 - [🏗️ Model Architecture](#%EF%B8%8F-model-architecture)
 - [🔧 Training](#-training)
-- [📈 Results](#-results)
-- [🚀 How to Use](#-how-to-use)
 - [📦 Dependencies](#-dependencies)
 - [📬 Contact](#-contact)
 
