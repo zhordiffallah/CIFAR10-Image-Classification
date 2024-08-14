@@ -44,8 +44,9 @@ This architecture efficiently processes 32x32 images, extracting features and ma
 
 Training was monitored through loss values, and adjustments were made to optimize the model. After training, the model achieved an accuracy of **62.04%** on the test set. Below is a confusion matrix to visualize the classification performance.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zhordiffallah/cifar10-image-classification/main/images/confusion_matrix.png" alt="Sample CIFAR-10 Images" width="600"/>
+  <img src="https://raw.githubusercontent.com/zhordiffallah/cifar10-image-classification/confusion_matrix.png" alt="Confusion Matrix" width="600"/>
 </p>
+
 ## 📦 Dependencies
 - Python 3.x
 - PyTorch
@@ -55,5 +56,7 @@ Training was monitored through loss values, and adjustments were made to optimiz
 
 ## 📬 Contact
 Feel free to reach out if you have any questions or suggestions!
+
 📧 Email: zhor.diffallah@gmail.com
+
 💼 LinkedIn: Zhor Diffallah
