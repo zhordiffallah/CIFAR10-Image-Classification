@@ -16,7 +16,7 @@ Welcome to the CIFAR-10 Image Classification project! This repository contains a
 This project implements a CNN model using PyTorch to classify images from the CIFAR-10 dataset. The goal is to achieve high accuracy in identifying the correct class for each image.
 
 <p align="center">
-  <img src="[https://miro.medium.com/v2/resize:fit:700/1*4ZyX8dTG50oDR6izQoIV3A.png](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*PikwjA1WEmFNX-kYE24QYA.png)" alt="CIFAR-10 Classes" width="500"/>
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*PikwjA1WEmFNX-kYE24QYA.png" alt="CIFAR-10 Classes" width="500"/>
 </p>
 The CIFAR-10 dataset consists of 60,000 images in 10 classes, with 6,000 images per class. The dataset is divided into 50,000 training images and 10,000 test images.
 
