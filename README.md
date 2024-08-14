@@ -1,6 +1,6 @@
 # 🎨 CIFAR-10 Image Classification with PyTorch
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![PyTorch](https://img.shields.io/badge/PyTorch-1.x-orange.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![PyTorch](https://img.shields.io/badge/PyTorch-1.x-orange.svg) ![GoogleColaboratory](https://img.shields.io/badge/Colab-1.x-yellow.svg) 
 
 Welcome to the CIFAR-10 Image Classification project! This repository contains a Convolutional Neural Network (CNN) implemented in PyTorch, designed to classify images into one of 10 classes.
 
@@ -44,7 +44,7 @@ This architecture efficiently processes 32x32 images, extracting features and ma
 
 Training was monitored through loss values, and adjustments were made to optimize the model. After training, the model achieved an accuracy of **62.04%** on the test set. Below is a confusion matrix to visualize the classification performance.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/cifar10-image-classification/main/images/sample_images.png" alt="Sample CIFAR-10 Images" width="600"/>
+  <img src="https://raw.githubusercontent.com/zhordiffallah/cifar10-image-classification/main/images/confusion_matrix.png" alt="Sample CIFAR-10 Images" width="600"/>
 </p>
 ## 📦 Dependencies
 - Python 3.x
