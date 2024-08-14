@@ -1,6 +1,6 @@
 # 🎨 CIFAR-10 Image Classification with PyTorch
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![PyTorch](https://img.shields.io/badge/PyTorch-1.x-orange.svg) ![GoogleColaboratory](https://img.shields.io/badge/Colab-1.x-yellow.svg) 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![PyTorch](https://img.shields.io/badge/PyTorch-1.x-orange.svg) 
 
 Welcome to the CIFAR-10 Image Classification project! This repository contains a Convolutional Neural Network (CNN) implemented in PyTorch, designed to classify images into one of 10 classes.
 
